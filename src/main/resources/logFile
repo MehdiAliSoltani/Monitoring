@@ -1,0 +1,4 @@
+- catalog file has been created as a data dictionary
+- ReadGoogleSheet.java is a class for communicating with google API to retrieve information 
+from google sheet. 
+-Utiles.java includes  utility methods.
